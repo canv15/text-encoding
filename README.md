@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftext-encoding.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftext-encoding?ref=badge_shield)
+
 text-encoding
 ==============
 
@@ -109,3 +111,7 @@ TextEncoder `encode()` method accepts an optional dictionary and
 `stream` option, e.g. `encoder.encode(string, {stream: true});` This
 is not needed for standard encoding since the input is always in
 complete code points.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Ftext-encoding.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Ftext-encoding?ref=badge_large)
